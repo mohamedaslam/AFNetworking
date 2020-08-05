@@ -94,7 +94,7 @@
 
 - (void)setResponseSerializer:(AFHTTPResponseSerializer <AFURLResponseSerialization> *)responseSerializer {
     NSParameterAssert(responseSerializer);
-
+//TestDemo
     [super setResponseSerializer:responseSerializer];
 }
 
